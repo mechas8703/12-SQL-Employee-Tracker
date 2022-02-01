@@ -1,5 +1,8 @@
 # 12 SQL: Employee Tracker
 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/made%20by-Maria%20Cardona-brightgreen)
+
 ## Your Task
 
 Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called **content management systems (CMS)**. Your assignment this week is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
@@ -36,3 +39,10 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
 
+<!-- ## Note Taker
+![Note Taker](./public/assets/capture1.PNG)
+
+### App working example
+
+* [Heroku Deployed](https://stormy-anchorage-52037.herokuapp.com/)
+* [Repo](https://github.com/mechas8703/11-Note-Taker) -->
