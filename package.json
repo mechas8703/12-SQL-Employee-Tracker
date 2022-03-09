@@ -4,7 +4,10 @@
   "description": "Employee Tracker",
   "main": "server.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
+    "migrate": "mysql db/tracker.db < db/schema.sql",
+    "seed": "mysql db/tracker.db < db/seeds.sql",
+    "db": "mysql db/tracker.db",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,6 +27,7 @@
     "express": "^4.17.3",
     "figlet": "^1.5.2",
     "inquirer": "^7.3.3",
+    "inquirer-confirm": "^2.0.7",
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
     "Validator": "^1.1.4"
