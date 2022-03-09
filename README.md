@@ -9,7 +9,7 @@ Developers frequently have to create interfaces that allow non-developers to eas
 
 Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project.
 
-## User Story
+## User Story 📖
 
 ```md
 AS A business owner
@@ -17,7 +17,7 @@ I WANT to be able to view and manage the departments, roles, and employees in my
 SO THAT I can organize and plan my business
 ```
 
-## Acceptance Criteria
+## Acceptance Criteria ✅
 
 ```md
 GIVEN a command-line application that accepts user input
@@ -39,10 +39,8 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
 
-<!-- ## Note Taker
-![Note Taker](./public/assets/capture1.PNG)
+## Deployment
+[Github Repo](https://github.com/mechas8703/12-SQL-Employee-Tracker)
 
-### App working example
-
-* [Heroku Deployed](https://stormy-anchorage-52037.herokuapp.com/)
-* [Repo](https://github.com/mechas8703/11-Note-Taker) -->
+## Employee Tracker
+![Employee Tracker](./demo.gif)
