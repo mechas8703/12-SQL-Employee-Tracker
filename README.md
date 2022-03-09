@@ -41,6 +41,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Deployment
 [Github Repo](https://github.com/mechas8703/12-SQL-Employee-Tracker)
+[Video](https://drive.google.com/file/d/1k6CobqAG1QshRIB_JHyg5KhgMwldUC-0/view)
 
 ## Employee Tracker
 ![Employee Tracker](./demo.gif)
